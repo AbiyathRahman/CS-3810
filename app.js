@@ -17,7 +17,7 @@ function lookupFeatureToggle(req, name) {
 
 // A fake implementation of a new home page implementation
 function newFancyHomepage() {
-    return 'Fundamentals of DevOps!';
+    return 'Fundamentals of DevOps! This is the new home page!';
 }
 
 module.exports = app;
